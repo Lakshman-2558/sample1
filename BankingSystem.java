@@ -7,7 +7,7 @@ interface Account {
     void calculateInterest();
     void viewBalance();
 }
-
+//uihfiueufgeuiagfibuieguieguiegfuieqfguqwefbuiqegfyqeg7qegfuiebqfuuifgqeuifhuiefgueigfiueqgfuiqbfiuqgfuifiuegfuiqegfuiegfiuegfiuegi
 class Bank {
     private List<Account> accounts;
 
